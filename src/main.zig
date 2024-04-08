@@ -14,7 +14,7 @@ const modules = [_]type{
     @import("2023/day_4.zig"),
     @import("2023/day_5.zig"),
     @import("2023/day_6.zig"),
-    // @import("2023/day_7.zig"),
+    @import("2023/day_7.zig"),
     // @import("2023/day_8.zig"),
     // @import("2023/day_9.zig"),
     // @import("2023/day_10.zig"),
