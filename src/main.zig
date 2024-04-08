@@ -32,7 +32,7 @@ const modules = [_]type{
     @import("2023/day_22.zig"),
     @import("2023/day_23.zig"),
     @import("2023/day_24.zig"),
-    // @import("2023/day_25.zig"),
+    @import("2023/day_25.zig"),
 };
 
 const days: [26][]const u8 = blk: {
