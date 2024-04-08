@@ -8,7 +8,7 @@ const lib = @import("lib.zig");
 
 const modules = [_]type{
     @import("2023/day_0.zig"),
-    // @import("2023/day_1.zig"),
+    @import("2023/day_1.zig"),
     // @import("2023/day_2.zig"),
     // @import("2023/day_3.zig"),
     // @import("2023/day_4.zig"),
